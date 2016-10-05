@@ -1,0 +1,9 @@
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\Senin_141112044_BobyChristyawan\Latihan_1_1\bin\Debug\Latihan_1_1.exe.config
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\Senin_141112044_BobyChristyawan\Latihan_1_1\bin\Debug\Latihan_1_1.exe
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\Senin_141112044_BobyChristyawan\Latihan_1_1\bin\Debug\Latihan_1_1.pdb
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\Senin_141112044_BobyChristyawan\Latihan_1_1\obj\Debug\Latihan_1_1.csprojResolveAssemblyReference.cache
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\Senin_141112044_BobyChristyawan\Latihan_1_1\obj\Debug\Latihan_1_1.Form1.resources
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\Senin_141112044_BobyChristyawan\Latihan_1_1\obj\Debug\Latihan_1_1.Properties.Resources.resources
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\Senin_141112044_BobyChristyawan\Latihan_1_1\obj\Debug\Latihan_1_1.csproj.GenerateResource.Cache
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\Senin_141112044_BobyChristyawan\Latihan_1_1\obj\Debug\Latihan_1_1.exe
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\Senin_141112044_BobyChristyawan\Latihan_1_1\obj\Debug\Latihan_1_1.pdb
