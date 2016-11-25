@@ -1,0 +1,9 @@
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\Senin_141112044_BobyChristyawan\volleyball_problem\bin\Debug\volleyball_problem.exe.config
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\Senin_141112044_BobyChristyawan\volleyball_problem\bin\Debug\volleyball_problem.exe
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\Senin_141112044_BobyChristyawan\volleyball_problem\bin\Debug\volleyball_problem.pdb
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\Senin_141112044_BobyChristyawan\volleyball_problem\obj\Debug\volleyball_problem.csprojResolveAssemblyReference.cache
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\Senin_141112044_BobyChristyawan\volleyball_problem\obj\Debug\volleyball_problem.Form1.resources
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\Senin_141112044_BobyChristyawan\volleyball_problem\obj\Debug\volleyball_problem.Properties.Resources.resources
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\Senin_141112044_BobyChristyawan\volleyball_problem\obj\Debug\volleyball_problem.csproj.GenerateResource.Cache
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\Senin_141112044_BobyChristyawan\volleyball_problem\obj\Debug\volleyball_problem.exe
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\Senin_141112044_BobyChristyawan\volleyball_problem\obj\Debug\volleyball_problem.pdb
