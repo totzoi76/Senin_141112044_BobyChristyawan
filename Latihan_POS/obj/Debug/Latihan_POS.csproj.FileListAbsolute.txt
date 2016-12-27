@@ -10,3 +10,16 @@ D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\New folder (2)\L
 D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\New folder (2)\Latihan_POS\obj\Debug\Latihan_POS.csproj.GenerateResource.Cache
 D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\New folder (2)\Latihan_POS\obj\Debug\Latihan_POS.exe
 D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\New folder (2)\Latihan_POS\obj\Debug\Latihan_POS.pdb
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\testing\Latihan_POS\bin\Debug\Latihan_POS.exe.config
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\testing\Latihan_POS\obj\Debug\Latihan_POS.exe
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\testing\Latihan_POS\obj\Debug\Latihan_POS.pdb
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\testing\Latihan_POS\obj\Debug\Latihan_POS.csprojResolveAssemblyReference.cache
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\testing\Latihan_POS\obj\Debug\Latihan_POS.FormAwal.resources
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\testing\Latihan_POS\obj\Debug\Latihan_POS.FormRegistrationBarang.resources
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\testing\Latihan_POS\obj\Debug\Latihan_POS.Properties.Resources.resources
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\testing\Latihan_POS\obj\Debug\Latihan_POS.csproj.GenerateResource.Cache
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\testing\Latihan_POS\bin\Debug\Latihan_POS.exe
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\testing\Latihan_POS\bin\Debug\Latihan_POS.pdb
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\testing\Latihan_POS\bin\Debug\MySql.Data.dll
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\testing\Latihan_POS\bin\Debug\MySql.Data.xml
+D:\Boby Ch Zai\MIKROSKIL\SEM 5\Framework.net Lanjutan\Latihan 1\testing\Latihan_POS\obj\Debug\Latihan_POS.Regcust.resources

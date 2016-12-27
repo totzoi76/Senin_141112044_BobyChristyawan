@@ -14,7 +14,7 @@ namespace Latihan_POS
     public partial class FormRegistrationBarang : Form
     {
         //koneksi
-        String myConnectionString = "Server=localhost;Database=dblatihan_pos;Uid=root;Pwd='';";
+        //String myConnectionString = "Server=localhost;Database=dblatihan_pos;Uid=root;Pwd='';";
         MySqlConnection conn;
         MySqlCommand cmd;
         public FormRegistrationBarang()
@@ -120,11 +120,16 @@ namespace Latihan_POS
             }
         }
 
-        private void BtnKeluar_Click(object sender, EventArgs e)
+        public void BtnKeluar_Click(object sender, EventArgs e)
         {
+            //FormAwal form = new FormAwal();
+            //FormRegistrationBarang formreg = new FormRegistrationBarang();
             FormAwal form = (FormAwal)MdiParent;
+            //pictureBox1.Show();
             form.Show();
             this.Close();
+            //formreg.Hide();
+
         }
 
     }

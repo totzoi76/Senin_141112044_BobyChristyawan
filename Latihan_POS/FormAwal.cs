@@ -24,15 +24,27 @@ namespace Latihan_POS
         }
         FormRegistrationBarang FormRegis;
         FormAwal FormUtama;
-        private void barangToolStripMenuItem_Click(object sender, EventArgs e)
-        {
+        Regcust formcus;
+        
 
+        private void FormAwal_Load(object sender, EventArgs e)
+        {
+            conn = new MySqlConnection(myConnectionString);
+        }
+
+        public void pictureBox1_Click(object sender, EventArgs e)
+        {
+            //FormRegistrationBarang form = new FormRegistrationBarang();
+            //form.ShowDialog();
             if (FormRegis == null || !FormRegis.IsHandleCreated)
             {
                 FormRegis = new FormRegistrationBarang();
                 FormRegis.MdiParent = this;
-                FormRegis.BringToFront();
                 FormRegis.Show();
+                //pictureBox1.Hide();
+                //FormRegis.Show();
+                
+                
             }
             else
             {
@@ -40,9 +52,28 @@ namespace Latihan_POS
             }
         }
 
-        private void FormAwal_Load(object sender, EventArgs e)
+        private void pictureBox2_Click(object sender, EventArgs e)
         {
-            conn = new MySqlConnection(myConnectionString);
+            Application.Exit();
+        }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+            
+            if (formcus == null || !formcus.IsHandleCreated)
+            {
+                formcus = new Regcust();
+                formcus.MdiParent = this;
+                formcus.Show();
+                //pictureBox1.Hide();
+                //FormRegis.Show();
+
+
+            }
+            else
+            {
+                formcus.Show();
+            }
         }
     }
 }
